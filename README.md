@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Callum
+I am a computer science graduate from the University of Sussex.
 
-<!--
-**CallumButters/CallumButters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am interested in game design, artificial intelligence and general software development.
 
-Here are some ideas to get you started:
+I can code in: Java, C++, Pyhton and more. I have used Unity as the main way I make games but have some experience with Unreal Engine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have made several projects both in university as well as in my own time which I believe will show of my skills better than I ever could describe in words. 
+
+##Education:
+BSC Computer Science 
+University of Sussex
+2022-2025
+
+##Contact:
+callumbutters04@yahoo.co.uk
+Callum Butters on LinkedIn
